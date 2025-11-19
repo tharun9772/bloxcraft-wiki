@@ -1,2 +1,2 @@
-# bloxcraft-wiki
-Open Source Code For The Bloxcraft Wiki
+# Bloxcraft WIki
+The WIKi For Bloxcraft Or Tharun9772 Realated Things
